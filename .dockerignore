@@ -3,7 +3,7 @@
 .cache
 .idea
 runs
-output
+Test_imgs
 coco
 storage.googleapis.com
 
